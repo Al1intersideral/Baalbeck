@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"dba562d3c12fee16","type":"file","file":"Baalbeck/trebonneinforgraphie.png","x":-560,"y":-540,"width":400,"height":225},
+		{"id":"dba562d3c12fee16","type":"file","file":"Baalbeck/Images/trebonneinforgraphie.png","x":-560,"y":-540,"width":400,"height":225},
 		{"id":"a60c8d6fdfb59a89","x":-120,"y":-540,"width":589,"height":101,"type":"text","text":"Faut faire des crashs test avec ça voir si ça marche correctement :)"}
 	],
 	"edges":[]
