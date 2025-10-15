@@ -25,10 +25,10 @@
 		{"id":"7042fe5cbcf31e8c","type":"file","file":"Procedural_Fracture_V4.blend","x":980,"y":1680,"width":400,"height":400},
 		{"id":"209b059781addaa0","type":"text","text":"Alors Alors !\n\nUtilisons Obsidian git pour faire notre partage d'info :) \n\nC'est du coup le logiciel Obsidian qui ressemble à ça \n\n![[Pasted image 20250920011237.png]]\n\navec un plugin qui s'appel juste git !\n\nje te fais un petit process d'install pour quand tu auras le temps !\n\ninstall Obsidian\ninstall https://git-scm.com/downloads\n\nQuand git est install dans le command \"git config --global user.mail <lemailquetuveux>\"\n\nEnsuite dans obsidian \n\nCréer un nouveau vault tu le nommes et met où tu veux sans aucun soucis\nCréer un dossier dans ce vault (clic droit sur l'onglet du côté)\nensuite tu vas dans les paramètre d'obsidian \n=> Community plugin\n=> turn on\n=> Cherche git\n\naprès install pense à bien l'activé dans le menu en dessous\n\nensuite tu peux faire cmd+P pour `Clone an existing remote repo`\n\ntu copies ce lien => \n\nhttps://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@github.com/Al1intersideral/Baalbeck.git\n\nensuite tu dois écrire le nom de folder que tu as créé avant \n\net normalement les fichiers devrai se charger !\n\nil faudra faire un dernier test avec CMD + P et écrire commit and sync et voir si ça marche :) \n\n\nhttps://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@github.com/Al1intersideral/Baalbeck.git","x":4415,"y":1103,"width":1505,"height":1597},
 		{"id":"1956182e06f16a69","type":"file","file":"Pasted image 20250924204042.png","x":520,"y":2420,"width":860,"height":706},
-		{"id":"dfe0195ac18479b6","x":1460,"y":1680,"width":468,"height":660,"type":"file","file":"Pasted image 20251013144715.png"},
-		{"id":"04377d63f2dec460","x":1960,"y":1680,"width":440,"height":660,"type":"file","file":"Pasted image 20251013144952.png"},
-		{"id":"6e078a05d924700c","x":2440,"y":1680,"width":453,"height":660,"type":"file","file":"Pasted image 20251013145011.png"},
-		{"id":"2e7a43841df48a29","x":1960,"y":2360,"width":400,"height":238,"type":"file","file":"Pasted image 20251013145730.png"}
+		{"id":"dfe0195ac18479b6","type":"file","file":"Pasted image 20251013144715.png","x":1460,"y":1680,"width":468,"height":660},
+		{"id":"04377d63f2dec460","type":"file","file":"Pasted image 20251013144952.png","x":1960,"y":1680,"width":440,"height":660},
+		{"id":"6e078a05d924700c","type":"file","file":"Pasted image 20251013145011.png","x":2440,"y":1680,"width":453,"height":660},
+		{"id":"2e7a43841df48a29","type":"file","file":"Pasted image 20251013145730.png","x":1960,"y":2360,"width":400,"height":238}
 	],
 	"edges":[]
 }
