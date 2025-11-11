@@ -36,7 +36,8 @@
 		{"id":"492848e329efc6aa","x":2920,"y":2360,"width":286,"height":123,"type":"file","file":"Pasted image 20251111160343.png"},
 		{"id":"bd730af65bf89f2a","x":3352,"y":2140,"width":400,"height":171,"type":"file","file":"Pasted image 20251111175204.png"},
 		{"id":"a697f24065c03bdf","x":3352,"y":2335,"width":400,"height":174,"type":"file","file":"Pasted image 20251111175218.png"},
-		{"id":"d9ee6a68409892cb","x":3352,"y":2540,"width":400,"height":175,"type":"file","file":"Pasted image 20251111175154.png"}
+		{"id":"d9ee6a68409892cb","x":3352,"y":2540,"width":400,"height":175,"type":"file","file":"Pasted image 20251111175154.png"},
+		{"id":"df14ef30e7fb82d0","x":3352,"y":2760,"width":400,"height":400,"type":"file","file":"TEST_3DTYPE_0001-0100.mp4"}
 	],
 	"edges":[]
 }
