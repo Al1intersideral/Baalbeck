@@ -29,7 +29,11 @@
 		{"id":"dfe0195ac18479b6","type":"file","file":"Baalbeck/Images/Pasted image 20251013144715.png","x":1460,"y":1680,"width":468,"height":660},
 		{"id":"04377d63f2dec460","type":"file","file":"Baalbeck/Images/Pasted image 20251013144952.png","x":1960,"y":1680,"width":440,"height":660},
 		{"id":"6e078a05d924700c","type":"file","file":"Baalbeck/Images/Pasted image 20251013145011.png","x":2440,"y":1680,"width":453,"height":660},
-		{"id":"2e7a43841df48a29","type":"file","file":"Baalbeck/Images/Pasted image 20251013145730.png","x":1960,"y":2360,"width":400,"height":238}
+		{"id":"2e7a43841df48a29","type":"file","file":"Baalbeck/Images/Pasted image 20251013145730.png","x":1960,"y":2360,"width":400,"height":238},
+		{"id":"85b37f79e4edb825","x":2920,"y":1680,"width":400,"height":165,"type":"file","file":"Pasted image 20251111155317.png"},
+		{"id":"e5ebb24e6502bc90","x":3360,"y":1680,"width":383,"height":165,"type":"file","file":"Pasted image 20251111155341.png"},
+		{"id":"e1068c7d8238be2b","x":2920,"y":1940,"width":286,"height":400,"type":"file","file":"Pasted image 20251111160331.png"},
+		{"id":"492848e329efc6aa","x":2920,"y":2360,"width":286,"height":123,"type":"file","file":"Pasted image 20251111160343.png"}
 	],
 	"edges":[]
 }
